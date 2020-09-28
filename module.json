@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Red LoadingProgress",
+    "keywords" : ["client"],
+    "author": "PsykoDev",
+    "options": {
+        "guiName": "Red LoadingProgress",
+        "cliName": "Red LoadingProgress"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Red-LoadingProgress/master/"],
+    "supportUrl": "https://github.com/PsykoDev/Red-LoadingProgress/issues",
+    "description": "Red LoadingProgress"
+}
